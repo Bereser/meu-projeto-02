@@ -1,0 +1,15 @@
+Criando seu primeiro repositório no Github para comparttilhar seu
+progresso
+
+- ## = cria um sub título
+- [] = entre eles você usa para nomear links
+- (link) = usado para links
+
+Vai começar a usar o git bash
+
+- git clone linkdogithub = clona o repositório do github para o seu pc
+- cd nomedorepositório = entra no repositório 
+- git status = usa para apresentar os status do repositório
+- git add . = adiciona arquivos para o repositório local
+- git commit -m "comentario de sua preferencia" = muda o nome de seu repositório local
+- git push origin main = envia todas as alterações do repositório local para a nuvem
