@@ -1,4 +1,4 @@
-Criando seu primeiro repositório no Github para comparttilhar seu
+Criando seu primeiro repositório no Github para compartilhar seu
 progresso
 
 - ## = cria um sub título
