@@ -33,3 +33,31 @@ Como adicionar novos templates
 - E descreva o seu Issue
 - Clique em "Porpose changes"
 - Depois clique em "Commit changes"
+
+Como criar uma contribuição
+
+- Clique em "Fork" (no canto superior direito)
+- [Opcional] mudar o nome do repositório e adicionar a descrição
+- Clique em "Creating fork"
+
+Como clonar um repositório pelo Fork
+
+- Clique no botão verde "Code"
+- Copie o código de sua preferência (Ex: https)
+- Depois abra o Git bash
+
+Depois de abrir o Git Bash
+
+- git clone linkdocode = para copiar a pasta para o seu computador
+- cd nomedapasta = para entrar na pasta remota
+- git remote add upstream linkdocode = copia o repositório original
+- git remote -v = mostra as pastas copiadas pelo git clone e git remote add upstream
+- git pull upstream main = copia a e mescla as alterações feitas pelo git hub ao repositório loca 
+- git pull origin main = outra opção de alterar o repositório
+- git checkout -b .../nomedeusuario = alterar a branch para outra nova
+- touch nomedapasta/nomedoarquivo.md = criar o arquivo com o mesmo nome de usuario do Github
+
+Depois para salvar o commit
+ 
+- git add nomedapasta/nomedoarquivo = 
+
