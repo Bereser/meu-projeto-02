@@ -1,0 +1,35 @@
+Desafio 02- Contribuindo para um projeto Open Source no Github
+
+Projeto Open Source
+- É um projeto de código aberto, que pode ser utilizado, modificado e
+ditribuído livremente
+
+Como contribuir em um Open Source
+
+- Vá em um repositório aberto
+- Depois vá em "Issues", e clique em "New Issues" 
+- Vá em uma das opções, mais provavel que você vá seguir o "Feature request"
+- Escreva sua sugestão de ideias em frente de "[SUGESTÃO]"
+- Depois escreva suas sugestões logo abaixo 
+- Logo após isso clique em "Submit new issue"
+
+Como utilizar a contribuição de uma Issue
+
+- Vá em "Issues"
+- [Opcional] Comentar no Issue
+- Para resolver o problema você irá para "Edit this file" (O Lápis perto do centro direito)
+- Depois de resolver o problema você vai em "Commit changes"
+- Depois você salvará no final do "Commit message" (fix #1) porque fechara 
+a primeira issues que estava em sugestões (E para fechar em diante basta usar #2,#3...)
+- Aí clique em "Commit changes"
+ 
+Como adicionar novos templates 
+
+- Vá em "Settings"
+- Role pra baixo até em "Features", abilite os "Issues" e clique em  "Set up templates"
+- Clique em "Add template: select", depois clique em "Custom template"
+- Depois clique em "Preview and edit"
+- Clique no lápis (Edit)
+- E descreva o seu Issue
+- Clique em "Porpose changes"
+- Depois clique em "Commit changes"
