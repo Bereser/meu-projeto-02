@@ -32,4 +32,4 @@ Exemplo:
 <p>
 Eu amo <strong>lasanha</strong>
 </p>
-Eu amo lasanha (lasanha em negrito)
+Eu amo **lasanha** (lasanha em negrito)
