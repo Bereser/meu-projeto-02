@@ -1,0 +1,35 @@
+O que são clients?
+
+- Dispositivo que consome uma informação pela internet,o consumidor
+- O Server é o provedor de informações para o client, que é o consumidor
+- Arquivos estáticos = a saída de informações (Server) para o consumidor (Client)
+
+O que são Servers?
+
+- São provedores de informações os salvando para os Clients
+- Geralmente o computador central
+- Podem ser de diferentes tipos de servidores: Arquivos, Segurança, Steaming, Email e Web
+
+Hospedagem de sites 
+
+- Hospedar o Banco de dados em outros servidores contratados
+
+Linguagem de programação
+
+- linguegem escrita e formal que juntas formam regras para gerar programas
+
+html não é linguagem de programação 
+
+- <p> = abre um parágrafo 
+- </p> = fecha um parágrafo
+- <strong> = coloca em negrito
+- </strong> = fecha o comando em negrito
+- <i> = coloca o comando em itálico
+- </i> = fecha o comando em itálico
+
+- Todo comando é utilizado com seu comando de fechamento
+Exemplo:
+<p>
+Eu amo <strong>lasanha</strong>
+</p>
+Eu amo lasanha (lasanha em negrito)
