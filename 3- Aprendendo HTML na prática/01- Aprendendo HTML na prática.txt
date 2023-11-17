@@ -23,7 +23,10 @@ Ex: <html>
 - title = fica no "head" e da um título ao site, esvreva o titulo entre os comandos de
 abrir e fechar o comando
 - Se escrever no "body" você mostrará no site o titulo
-
+- i = coloca o que té escrito em itálico
+- strong = coloca o texto em negrito
+- input type:text = adiciona um campo pra você digitar
+ 
 Obs: Ctrl + S = Salva o arquivo 
 
 
