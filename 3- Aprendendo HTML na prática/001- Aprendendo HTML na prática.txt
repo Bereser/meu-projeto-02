@@ -1,0 +1,72 @@
+Aprendendo HTML na prática
+
+- index.html = Comamdo já pre instalado no Visual Studio Code
+- html:5 = completa um padrão pra fazer em site
+
+Obs: ao apertar F12 no google Chrome você inspeciona o site para ver os comandos 
+utilizados lá
+
+- Você abrirá uma pasta no visual code
+- Abra em arquivo
+- Depois vá em "Abrir pasta" e selecione a pasta criada
+ 
+Comandos
+
+- index.html = Para dar inicio de um todo
+- Tag = Todo comando que possui sinal de maior e menor e entre eles possui uma palavra,
+e uma delas possui uma barra de fechamento
+Ex: <html>
+    </html>
+- html = comando para iniciar um site
+- head = cabeça do projeto html
+- body = corpo do projeto html
+- title = fica no "head" e da um título ao site, esvreva o titulo entre os comandos de
+abrir e fechar o comando
+- Se escrever no "body" você mostrará no site o titulo
+- i = coloca o que té escrito em itálico
+- strong = coloca o texto em negrito
+- input type:text = adiciona um campo pra você digitar
+ 
+Obs: Ctrl + S = Salva o arquivo 
+
+Atributos das tags
+
+- strong id="título" = id é um identificador
+- strong style="algoaqui" = voltada pra CSS, voltado para algum atributo
+- strong style="color: blue;" = da cor ao comando strong
+- strong class="titulo-principal"
+- input type:"number" = adiciona um campo numérico
+- input type:"color" = adiciona um campo de cores
+- img src="endereçodeimagem" = imagem
+- img widht="numerodelarguradaimagem" src="endereçodeimagem" = regula o tamanho 
+da imagem
+
+Textos (tags)
+
+- h1 = o título da pagina (maior)
+- h2,h3,h4,...,h6= título em ordem de tamanho, do maior (h1) ao menor (h6)
+- p = parágrafo
+- blockquote = uma citação 
+- u = sublinha a palavra
+- mark = marca texto 
+- sup = da uma letra ou número elevado a palavra ou número
+
+Listas ordenadas e não odenadas
+
+Lista ordenadas
+
+- ol = lista para ordenar
+- li = Lista em ordem 
+
+Listas não ordenadas
+
+- ul = lista das não ordenadas, marcações em bolinhas
+- il = lista em ordem
+
+Links 
+
+- <a href="linkdosite">Nome de sua preferência = uma referência âncora de um site
+- <a href="linkdosite" target="blank" = abre o site em outra aba
+- <a href="linkdosite" target="self" = abre o site na mesma aba do seu site
+- <a href="linkdosite" title="oquevocêquiser" target="self"= cria uma mensagem
+em cima do link
