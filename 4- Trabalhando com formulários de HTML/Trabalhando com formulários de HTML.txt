@@ -1,0 +1,27 @@
+Trabalhando com fortmulários em HTML
+
+Tag <form>
+
+- É um formulário de usar as suas credenciais
+
+Tags
+ 
+- title = apresenta um título para o site
+- form = dá a forma do formulário 
+- form 
+Nome: <input type="text" name="nome" /><br> = da forma de um formulário de texto
+Idade: <input type="number" name="age" /> = da formulário á idade
+Senha: <input type="password" name="password" /> = da formulário para senha
+<button type="submit">Enviar</button> = cria um botão escrito enviar
+- <br> = dá uma distância de uma linha para outra
+- <form name="nomedesuapreferência"> = dá nome ao seu formulário 
+- <form name="..." action="siteondevaienviar" = mostra em qual site será enviado
+- <form name="..." method="GET" action="..." = method dá as suas credenciais no 
+link so site 
+- <form name="..." method="POST" action="..." = comprime toda informação e envia ao 
+servidor
+- <form name="..." target="_blank" method="..." action="..." = envia o formulário a outra aba
+- <form name="..." autocomplete:"on" method="..." action="..." = salva o formulário no seu computador
+- <form name="..." autocomplete:"off" method="..." action="..." = não vai completar o formulário para 
+você
+- on+... = anuncia um evento que pode acontecer
